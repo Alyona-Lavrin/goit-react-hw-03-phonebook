@@ -22,4 +22,5 @@ export const FormButton = styled.button`
   height: 30px;
   background: white;
   border-radius: 6px;
+  background-color: #d712a629;
 `;

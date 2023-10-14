@@ -19,4 +19,8 @@ export const DelBtn = styled.button`
   height: 30px;
   background: white;
   border-radius: 6px;
+  width: 75px;
+  height: 30px;
+  background-color: #d712a629;
+  margin-left: 40px;
 `;
